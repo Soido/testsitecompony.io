@@ -62,7 +62,6 @@ main {
 article {
   display: inline;
   justify-content: space-around;
-  width: 100%;
   margin: 2rem 5rem 0 4rem;
 }
 h1 {
@@ -88,7 +87,6 @@ h2 {
 }
 .info {
   justify-content: stretch;
-  max-width: 100%;
   padding-left: 3rem;
 }
 .info p{
