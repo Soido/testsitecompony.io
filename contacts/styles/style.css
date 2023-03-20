@@ -80,7 +80,7 @@ h2 {
   font-size: 4rem;
   text-align: center;
   color:rgb(255, 255, 255);
-  background-color: rgba(0, 113, 210, 1);;
+  background-color: rgba(0, 113, 210, 1);
   margin-bottom: 0;
   padding-bottom: 1rem;
   margin-top: 5rem;
@@ -108,8 +108,8 @@ h2 {
   grid-template-columns: 120px 120px;
   gap: 1.5rem;
   max-width: 100%;
-  margin-top: 10rem;
-  margin-left: 8.5rem;
+  margin-top: 2rem;
+  margin-left: 10rem;
 }
 .button a{
   text-decoration: none;
