@@ -147,7 +147,7 @@ text-align: center;
 .equipment{
   display: flex;
   justify-content:space-around;
-  gap: 2rem;
+  gap: 7rem;
   flex-wrap: wrap;
   padding-top: 5rem;
   padding-left: 2rem;
@@ -163,8 +163,8 @@ a > div{
 display:block;
 border: 1px solid rgba(0, 113, 210, 1);
 border-radius: 2rem;
-max-width: 28rem;
-height: 32rem;
+max-width: 65rem;
+height: 65rem;
 background-color: rgba(0, 113, 210, 1);
 }
 a > div:hover{
@@ -176,7 +176,7 @@ a > div:hover{
   width: 100%;
 }
 .equipment p{
-  font-size: 2rem;
+  font-size: 4rem;
   padding: auto;
   text-align: center;
   color: white; 
