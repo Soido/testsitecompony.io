@@ -57,7 +57,7 @@ nav a {
 /*тело страницы */
 main {
   display: flex;
-  width: 100%;
+  width: 99%;
 }
 article {
   display: inline;
